@@ -1,0 +1,1 @@
+/media/sagan/SagarSSD/videostab/CMakeFiles/videostab.dir
